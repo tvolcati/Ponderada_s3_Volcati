@@ -6,16 +6,19 @@ Turma: 12
 O projeto foi um protótito de um semáforo, utilizando um arduino uno, protoboards e jumpers para auxiliar o desenvolvimento
 
 <div style="text-align: center;">
-    <img src="prototitpo.jpeg" width="80%">
+    <img src="./assets/prototitpo.jpg" width="80%">
 </div>
-
-#### Video Semaforo
-Se encontra na raíz do projeto
 
 1. Com jumpers macho-fêmea conecte os terminais positivos dos LEDs em portas digitais do Arduino UNO (nesse caso, as portas 4, 5 e 6). 
 2. Com jumpers fêmea-fêmea conecte os terminais negativos dos LEDs em resistores 330 Ω.
 3. Conecte os jumpers com resistores na terminal GND da protoboard
 4. Com um jumper macho-macho conecte o GND do arudino UNO ao terminal GND da protoboard
+
+#### Video Semaforo
+Se encontra na pasta "assets" com o nome "demo.mp4"
+
+#### Programação do aparelho
+Se encontra na raíz do projeto com o nome "code.cpp"
 
 ### Tabela de Bill of Materials
 
