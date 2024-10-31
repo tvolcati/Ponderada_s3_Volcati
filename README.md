@@ -6,7 +6,7 @@ Turma: 12
 O projeto foi um protótito de um semáforo, utilizando um arduino uno, protoboards e jumpers para auxiliar o desenvolvimento
 
 <div style="text-align: center;">
-    <img src="./prototitpo.jpeg" width="80%">
+    <img src="prototitpo.jpeg" width="80%">
 </div>
 
 #### Video Semaforo
